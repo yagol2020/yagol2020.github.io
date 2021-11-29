@@ -21,7 +21,7 @@ export default {
   },
   methods: {
     initUserName: function () {
-      this.checkApi = axios.defaults.baseURL.startsWith('127.0.0.1') ? 'dev version' : 'prod version'
+      this.checkApi = axios.defaults.baseURL.startsWith('http://127.0.0.1') ? 'dev version' : 'prod version'
     }
   }
 }
