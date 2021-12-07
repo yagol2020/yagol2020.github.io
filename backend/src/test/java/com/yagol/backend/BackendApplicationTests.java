@@ -1,13 +1,17 @@
 package com.yagol.backend;
 
 import org.junit.jupiter.api.Test;
+import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
 
-@SpringBootTest
-class BackendApplicationTests {
+@RunWith(SpringRunner.class)
+@SpringBootTest(classes = BackendApplication.class)
+public class BackendApplicationTests {
 
-  @Test
-  void contextLoads() {
-  }
+    @Test
+    void contextLoads() {
+
+    }
 
 }

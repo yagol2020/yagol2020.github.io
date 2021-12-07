@@ -7,46 +7,65 @@
             <span>{{ blog.title }}</span>
             <div class="bottom clearfix">
               <div>{{ blog.content }}</div>
-              <el-button type="text" class="button">操作按钮</el-button>
+              <el-button type="text" class="button">查看</el-button>
             </div>
           </div>
         </el-card>
       </el-col>
     </el-row>
+    <el-pagination
+      background
+      layout="prev, pager, next"
+      :total="1000"
+      :current-page="currentPage"
+      @current-change="loadNextPage">
+    </el-pagination>
   </el-main>
 </template>
 
 <script>
 import axios from 'axios'
+import {Page} from '../../bean/BlogPage'
 
 export default {
   name: 'Blog',
   data () {
     return {
-      currentDate: new Date(),
       blogs: [
         {
-          id: undefined,
-          title: undefined,
-          content: undefined,
-          createdTime: undefined,
-          updatedTime: undefined
+          id: 'id',
+          title: 'title',
+          content: 'content',
+          createdTime: 'createdTime',
+          updatedTime: 'updatedTime'
         }
-      ]
+      ],
+      currentPage: 1,
+      blogsInfo: {
+        total: undefined
+      }
     }
   },
   mounted () {
-    this.loadBlog()
+    this.loadBlogsInfo()
   },
   methods: {
-    loadBlog: function () {
+    loadBlogsInfo: function () {
       axios({
-        url: '/blog/get',
+        url: '/blog/blogsInfo',
         method: 'get'
       }).then(res => {
         if (res.data.success) {
-          this.blogs = res.data.data
+          this.blogsInfo.total = res.data.data.total
+          this.loadNextPage(1)
         }
+      })
+    },
+    loadNextPage: function (changedPageNum) {
+      this.currentPage = changedPageNum
+      const page = new Page(this.blogsInfo.total, 10, this.currentPage)
+      axios.post('/blog/list', page).then(res => {
+        this.blogs = res.data.data.records
       })
     }
   }
