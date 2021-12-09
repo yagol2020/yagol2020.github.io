@@ -1,5 +1,6 @@
 package com.yagol.backend.service.impl;
 
+import cn.hutool.core.util.RandomUtil;
 import com.yagol.backend.BackendApplicationTests;
 import com.yagol.backend.entity.Blog;
 import com.yagol.backend.service.BlogService;
@@ -19,10 +20,8 @@ class BlogServiceImplTest extends BackendApplicationTests {
     @Test
     public void testBlogMapper() {
         Blog blog = new Blog();
-        blog.setContent("hi");
+        blog.setContent("Hi, " + RandomUtil.randomString(10));
         blogService.save(blog);
-        blog.setContent("no hi");
-        blogService.updateById(blog);
     }
 
 }
