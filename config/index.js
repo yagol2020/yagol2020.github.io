@@ -16,7 +16,7 @@ module.exports = {
         changeOrigin: true,
         secure: false,
         headers: {
-          Referer: 'https://81.70.160.201:8080/api/'
+          Referer: 'http://81.70.160.201:8080/api/'
         }
       }
     },
