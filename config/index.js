@@ -12,11 +12,11 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'https://81.70.160.201:8080/api/',
+        target: 'http://81.70.160.201:8080/api/',
         changeOrigin: true,
         secure: false,
         headers: {
-          Referer: 'http://81.70.160.201:8080/api/'
+          Referer: 'https://81.70.160.201:8080/api/'
         }
       }
     },
