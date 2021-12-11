@@ -1,2 +1,0 @@
-webpackJsonp([3],{ceaK:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  Research\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"Research"},r,!1,function(e){t("qT3V")},"data-v-22634e7e",null);n.default=a.exports},qT3V:function(e,n){}});
-//# sourceMappingURL=3.7284928554f162b74eb4.js.map
