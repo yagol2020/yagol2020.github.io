@@ -1,6 +1,9 @@
 module.exports = {
     title: 'Yagol\'s GitHub Page',
     description: 'yagol的GitHub Page网站',
+    markdown: {
+        lineNumbers: true
+    },
     themeConfig: {
         nav: [
             {text: '主页', link: '/'},
