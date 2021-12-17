@@ -8,7 +8,7 @@ npm run docs:build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
-
+echo "该分支为GitHub Page识别分支" >> README.md
 git init
 git add -A
 git commit -m 'deploy'
