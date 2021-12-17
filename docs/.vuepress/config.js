@@ -22,8 +22,10 @@ var _hmt = _hmt || [];
     themeConfig: {
         nav: [
             {text: '主页', link: '/'},
+            {text: '博客',link: '/blog/'},
             {text: '项目', link: '/project/'},
-            {text: '科研', link: '/science/'}
+            {text: '科研', link: '/science/'},
+            {text: '关于',link: '/about/'}
         ],
         sidebar: {
             '/blog/': [
@@ -32,20 +34,29 @@ var _hmt = _hmt || [];
             ],
             '/project/': [
                 '',
-                '文献网站爬虫工具',
+                'pwc',
+                'word info extractor'
             ],
             '/science/': [
                 '',
-                '缺陷预测',
+                'defect predict',
             ],
             '/about/':[
                 '',
-                '本站'
+                'this website'
             ],
             '/': [
                 '',
             ]
         },
-        lastUpdated: '更新时间'
+        lastUpdated: '更新时间',
+        repo: 'yagol2020/yagol2020.github.io',
+        repoLabel: '本站源码',
+
+        docsRepo: 'yagol2020/yagol2020.github.io',
+        docsDir: '/docs',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: '在GitHub查看该页面',
     }
 }
