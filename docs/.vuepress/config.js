@@ -30,7 +30,8 @@ var _hmt = _hmt || [];
         sidebar: {
             '/blog/': [
                 '',
-                'VuePress'
+                'VuePress',
+                'Selenium1'
             ],
             '/project/': [
                 '',

@@ -9,4 +9,4 @@ tags:
 
 ## 导航
 
-### 1. [区块链智能合约缺陷预测](./defect predict.md)
+1. [区块链智能合约缺陷预测](./defect%20predict.md)

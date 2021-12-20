@@ -3,7 +3,7 @@
 
 基于`Selenium`实现爬虫和XPath分析，绘制表格，并分析发表情况，输出csv以及趋势图等
 ## 项目地址
-https://github.com/yagol2020/PaperWebCrawler
+[GitHub](https://github.com/yagol2020/PaperWebCrawler)
 
 仍处于开发阶段，欢迎提交pr和issue！
 
