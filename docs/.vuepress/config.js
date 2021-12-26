@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Yagol\'s GitHub Page',
-    description: 'yagol的GitHub Page网站',
+    title: 'Yagol的网站',
+    description: 'Yagol的网站',
     markdown: {
         lineNumbers: true
     },
@@ -36,7 +36,6 @@ var _hmt = _hmt || [];
             '/project/': [
                 '',
                 'pwc',
-                'word info extractor'
             ],
             '/science/': [
                 '',

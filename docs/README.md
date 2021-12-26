@@ -1,7 +1,7 @@
 ---
 sidebar: false
 ---
-# yagol's GitHub Page
+# Yagol的网站
 
 ## 导航
 

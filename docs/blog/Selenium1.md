@@ -2,7 +2,8 @@
 开个新坑，讲一讲Selenium在Java中的应用
 
 ## 简介
-[Selenium](https://www.selenium.dev/)是一个用于Web应用的测试工具，其直接运行在浏览器中，就像真的用户在操作一样，浏览器支持较广，
+[Selenium](https://www.selenium.dev/)
+是一个用于Web应用的测试工具，其直接运行在浏览器中，就像真的用户在操作一样，浏览器支持较广，
 API接口支持很多语言，如`Java`、`.Net`等
 
 ## 爬虫？
