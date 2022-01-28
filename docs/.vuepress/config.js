@@ -21,7 +21,7 @@ module.exports = {
         [
             "script",
             {
-                src: "http://localhost:8080/live2d/autoload.js"
+                src: "https://yagol2020.github.io/live2d/autoload.js"
             }
         ]
     ],
