@@ -9,23 +9,29 @@ module.exports = {
             "script",
             {},
             `
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?7506f0120ade763a4f5a2ef8f91ca7c6";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-        `
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?7506f0120ade763a4f5a2ef8f91ca7c6";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            `
+        ],
+        [
+            "script",
+            {
+                src: "http://localhost:8080/live2d/autoload.js"
+            }
         ]
     ],
     themeConfig: {
         nav: [
             {text: '主页', link: '/'},
-            {text: '博客',link: '/blog/'},
+            {text: '博客', link: '/blog/'},
             {text: '项目', link: '/project/'},
             {text: '科研', link: '/science/'},
-            {text: '关于',link: '/about/'}
+            {text: '关于', link: '/about/'}
         ],
         sidebar: {
             '/blog/': [
@@ -41,7 +47,7 @@ var _hmt = _hmt || [];
                 '',
                 'defect predict',
             ],
-            '/about/':[
+            '/about/': [
                 '',
                 'this website'
             ],
