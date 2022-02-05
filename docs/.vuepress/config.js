@@ -5,6 +5,7 @@ module.exports = {
         lineNumbers: true
     },
     head: [
+        //baidu analysis
         [
             "script",
             {},
@@ -18,6 +19,7 @@ module.exports = {
             })();
             `
         ],
+        //live2d
         [
             "script",
             {
@@ -31,6 +33,7 @@ module.exports = {
             {text: '博客', link: '/blog/'},
             {text: '项目', link: '/project/'},
             {text: '科研', link: '/science/'},
+            {text: '力扣', link: '/leetcode/'},
             {text: '关于', link: '/about/'}
         ],
         sidebar: {
@@ -47,6 +50,7 @@ module.exports = {
                 '',
                 'defect predict',
             ],
+            '/leetcode': [''],
             '/about/': [
                 '',
                 'this website'
