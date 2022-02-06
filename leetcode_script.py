@@ -1,29 +1,28 @@
 """
-用于将leetocde的源代码转移到markdown文件中
+用于将leetcode的源代码转移到markdown文件中
 @author yagol
 """
 
 import os
-from tkinter.messagebox import QUESTION
-
-
-print(__doc__)
 
 BASE_LEETCODE_CODE_HOME = "/home/yagol/IdeaProjects/LeetcodeDaily/src/main/java"
-QUEST_FILE_NAME = "黄金矿工.java"
-if not os.path.exists(os.path.join(BASE_LEETCODE_CODE_HOME, QUEST_FILE_NAME)):
-    print("欲导入的文件不存在,请检查")
-    exit(-1)
-with open(os.path.join(BASE_LEETCODE_CODE_HOME, QUEST_FILE_NAME), "r") as file:
-    content = file.readlines()
-    markdown_content = "# "+QUEST_FILE_NAME.replace(".java", "")+"\n"
-    markdown_content += "```java\n"
-    for line in content:
-        markdown_content += line
-    markdown_content += "\n```"
-    print(markdown_content)
-    with open("./docs/leetcode/"+QUEST_FILE_NAME.replace(".java", "")+".md", "w") as markdown_file:
-        markdown_file.write(markdown_content)
-    with open("./docs/leetcode/README.md", "a") as readme_file:
-        readme_file.write("\n* ["+QUEST_FILE_NAME.replace(".java",
-                          "")+"](./"+QUEST_FILE_NAME.replace(".java", "")+".md)")
+LEET_CODE_README_DIR = "/home/yagol/WebstormProjects/yagol2020.github.io/docs/leetcode"
+java_file_names = os.listdir(BASE_LEETCODE_CODE_HOME)
+readme_file_names = [name.replace(".md", "")
+                     for name in os.listdir(LEET_CODE_README_DIR)]
+with open("/home/yagol/WebstormProjects/yagol2020.github.io/docs/leetcode/README.md", "a") as index_file:
+    for java_file_name in java_file_names:
+        if java_file_name.replace(".java", "") not in readme_file_names:
+            with open(os.path.join(BASE_LEETCODE_CODE_HOME, java_file_name), "r") as file:
+                content = file.readlines()
+                write_content = "# " + \
+                    java_file_name.replace(".java", "")+"\n\n```java\n"
+                for line in content:
+                    write_content += line
+                write_content += "\n```"
+                with open(os.path.join(LEET_CODE_README_DIR, java_file_name.replace(".java", ".md")), "w") as readme_file:
+                    readme_file.write(write_content)
+                    index_file.write(
+                        "* ["+java_file_name.replace(".java", "")+"](./"+java_file_name.replace(".java", ".md")+")\n")
+        else:
+            print("跳过 "+java_file_name)
