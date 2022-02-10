@@ -24,5 +24,6 @@ with open("/home/yagol/WebstormProjects/yagol2020.github.io/docs/leetcode/README
                     readme_file.write(write_content)
                     index_file.write(
                         "* ["+java_file_name.replace(".java", "")+"](./"+java_file_name.replace(".java", ".md")+")\n")
+                    print(f"添加了{java_file_name}")
         else:
             print("跳过 "+java_file_name)
