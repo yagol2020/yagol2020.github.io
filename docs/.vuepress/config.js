@@ -49,6 +49,7 @@ module.exports = {
             '/science/': [
                 '',
                 'defect predict',
+                'solcAutoCompiler'
             ],
             '/leetcode': [''],
             '/about/': [
