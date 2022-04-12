@@ -40,7 +40,8 @@ module.exports = {
             '/blog/': [
                 '',
                 'VuePress',
-                'Selenium1'
+                'Selenium1',
+                'Tensorflow'
             ],
             '/project/': [
                 '',
