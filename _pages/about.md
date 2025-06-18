@@ -60,9 +60,7 @@ My research interests include SE4AI, Autonomous Driving System Testing. If you a
 
     📃[**Paper**](https://doi.org/10.1016/j.scico.2023.103076)
 
-
-
--``IET Software`` **CIDFuzz: Fuzz Testing for Continuous Integration**
+- ``IET Software`` **CIDFuzz: Fuzz Testing for Continuous Integration**
 
     <span style="font-size:15px;"> Jiaming Zhang, Zhanqi Cui, Xiang Chen, <strong><em>Huiwen Yang</em></strong>, Liwei Zheng, Jianbin Liu.</span>
     <span style="font-size:15px;">IET Software, 2023. (<span style="color:blue">国际CCF-B</span>)</span>
