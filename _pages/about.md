@@ -39,7 +39,7 @@ My research interests include SE4AI, Autonomous Driving System Testing. If you a
 </div>
 
 
-- ``软件学报`` **基于目标制导符号执行的智能合约安全漏洞检测**
+- <span class="badge">软件学报</span> **基于目标制导符号执行的智能合约安全漏洞检测**
 
     <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 郑丽伟, 刘建宾.</span>
     <span style="font-size:15px;">软件学报, 2025. (<span style="color:blue">中文CCF-A</span>)</span>
