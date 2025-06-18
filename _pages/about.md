@@ -39,21 +39,21 @@ My research interests include SE4AI, Autonomous Driving System Testing. If you a
 </div>
 
 
-- <span class="badge">软件学报</span> **基于目标制导符号执行的智能合约安全漏洞检测**
+- ``软件学报`` **基于目标制导符号执行的智能合约安全漏洞检测**
 
     <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 郑丽伟, 刘建宾.</span>
     <span style="font-size:15px;">软件学报, 2025. (<span style="color:blue">中文CCF-A</span>)</span>
 
     📃[**Paper**](https://www.jos.org.cn/jos/article/abstract/7396)
 
-- <span class="badge">软件学报</span> &nbsp; **智能合约安全漏洞检测研究进展**
+- ``软件学报`` **智能合约安全漏洞检测研究进展**
 
     <span style="font-size:15px;"> 崔展齐, <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 王林章.</span>
     <span style="font-size:15px;">软件学报, 2024. (<span style="color:blue">中文CCF-A, 导师一作</span>)</span>
 
     📃[**Paper**](https://www.jos.org.cn/jos/article/abstract/7046)
 
-- <span class="badge">SCP</span> &nbsp; **CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection**
+- ``SCP`` **CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection**
 
     <span style="font-size:15px;"> <strong><em>Huiwen Yang</em></strong>, Xiguo Gu, Xiang Chen, Liwei Zheng, Zhanqi Cui.</span>
     <span style="font-size:15px;">Science of Computer Programming, 2024. (<span style="color:blue">国际CCF-B</span>)</span>
@@ -62,28 +62,28 @@ My research interests include SE4AI, Autonomous Driving System Testing. If you a
 
 
 
-- <span class="badge">IET Software</span> &nbsp; **CIDFuzz: Fuzz Testing for Continuous Integration**
+-``IET Software`` **CIDFuzz: Fuzz Testing for Continuous Integration**
 
     <span style="font-size:15px;"> Jiaming Zhang, Zhanqi Cui, Xiang Chen, <strong><em>Huiwen Yang</em></strong>, Liwei Zheng, Jianbin Liu.</span>
     <span style="font-size:15px;">IET Software, 2023. (<span style="color:blue">国际CCF-B</span>)</span>
 
     📃[**Paper**](https://dl.acm.org/doi/10.1049/sfw2.12125)
 
-- <span class="badge">IJSEKE</span> &nbsp; **OC-Detector: Detecting Smart Contract Vulnerabilities Based on Clustering Opcode Instructions**
+- ``IJSEKE`` **OC-Detector: Detecting Smart Contract Vulnerabilities Based on Clustering Opcode Instructions**
 
     <span style="font-size:15px;"> Xiguo Gu, Liwei Zheng, <strong><em>Huiwen Yang</em></strong>, Shifan Liu, Zhanqi Cui.</span>
     <span style="font-size:15px;">International Journal of Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
 
     📃[**Paper**](https://doi.org/10.1142/S0218194023410061)
 
-- <span class="badge">SEKE</span> &nbsp; **Smart Contract Vulnerability Detection Based on Clustering Opcode Instructions**
+- ``SEKE`` **Smart Contract Vulnerability Detection Based on Clustering Opcode Instructions**
 
     <span style="font-size:15px;"> Xiguo Gu, <strong><em>Huiwen Yang</em></strong>, Shifan Liu, Zhanqi Cui.</span>
     <span style="font-size:15px;">International Conference on Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
 
     📃[**Paper**](https://doi.org/10.1142/S0218194023410061)
 
-- <span class="badge">软件学报</span> &nbsp; **基于软件度量的Solidity智能合约缺陷预测方法**
+- ``软件学报`` **基于软件度量的Solidity智能合约缺陷预测方法**
 
     <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 贾明华, 郑丽伟, 刘建宾.</span>
     <span style="font-size:15px;">软件学报, 2022. (<span style="color:blue">中文CCF-A</span>)</span>
