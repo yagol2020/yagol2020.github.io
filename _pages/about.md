@@ -26,7 +26,7 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by 软件学报! <span style="float: right;">[Smart Contract, Symbolic Execution]</span>
 
 
-# 📝 Publications 
+# 📝 Publications (Autonomous Driving Systems Testing)
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/SimADFuzz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,6 +42,7 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 </div>
 </div>
 
+# 📝 Publications (Blockchain Smart Contract Testing)
 
 - <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
   软件学报
