@@ -28,10 +28,12 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
-  TOSEM
-  </span><img src='../images/SimADFuzz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/SimADFuzz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  TOSEM
+</span>
 
 [SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems](https://dl.acm.org/doi/10.1145/3744242)
 
@@ -76,28 +78,37 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 
     📃[**Paper**](https://www.jos.org.cn/jos/article/abstract/7046)
 
-- ``SCP`` **CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection**
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  SCP
+  </span>
+  **CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection**
 
     <span style="font-size:15px;"> <strong><em>Huiwen Yang</em></strong>, Xiguo Gu, Xiang Chen, Liwei Zheng, Zhanqi Cui.</span>
     <span style="font-size:15px;">Science of Computer Programming, 2024. (<span style="color:blue">国际CCF-B</span>)</span>
 
     📃[**Paper**](https://doi.org/10.1016/j.scico.2023.103076)
 
-- ``IET Software`` [DevOps]**CIDFuzz: Fuzz Testing for Continuous Integration**
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  IET Software
+  </span> [DevOps]**CIDFuzz: Fuzz Testing for Continuous Integration**
 
     <span style="font-size:15px;"> Jiaming Zhang, Zhanqi Cui, Xiang Chen, <strong><em>Huiwen Yang</em></strong>, Liwei Zheng, Jianbin Liu.</span>
     <span style="font-size:15px;">IET Software, 2023. (<span style="color:blue">国际CCF-B</span>)</span>
 
     📃[**Paper**](https://dl.acm.org/doi/10.1049/sfw2.12125)
 
-- ``IJSEKE`` **OC-Detector: Detecting Smart Contract Vulnerabilities Based on Clustering Opcode Instructions**
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  IJSEKE
+  </span> **OC-Detector: Detecting Smart Contract Vulnerabilities Based on Clustering Opcode Instructions**
 
     <span style="font-size:15px;"> Xiguo Gu, Liwei Zheng, <strong><em>Huiwen Yang</em></strong>, Shifan Liu, Zhanqi Cui.</span>
     <span style="font-size:15px;">International Journal of Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
 
     📃[**Paper**](https://doi.org/10.1142/S0218194023410061)
 
-- ``SEKE`` **Smart Contract Vulnerability Detection Based on Clustering Opcode Instructions**
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  SEKE
+  </span> **Smart Contract Vulnerability Detection Based on Clustering Opcode Instructions**
 
     <span style="font-size:15px;"> Xiguo Gu, <strong><em>Huiwen Yang</em></strong>, Shifan Liu, Zhanqi Cui.</span>
     <span style="font-size:15px;">International Conference on Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
