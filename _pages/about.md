@@ -37,7 +37,7 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 
 [SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems](https://dl.acm.org/doi/10.1145/3744242)
 
-**Huiwen Yang**, Yu Zhou, Xiang Chen
+**Huiwen Yang**, Yu Zhou, Taolue Chen
 
 </div>
 </div>
