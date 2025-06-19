@@ -22,8 +22,8 @@ I am a Ph.D. student at Nanjing University of Aeronautics and Astronautics, supe
 My research interests include Software Analysis and Testing, focusing on Autonomous Driving Systems and Blockchain Smart Contracts. Please feel free to contact me if you're interested. 🙌
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TOSEM! [Autonomous Driving System, Fuzzing]
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by 软件学报! [Smart Contract, Symbolic Execution] 
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TOSEM! <span style="float: right;">[Autonomous Driving System, Fuzzing]</span>
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by 软件学报! <span style="float: right;">[Smart Contract, Symbolic Execution]</span>
 
 
 # 📝 Publications 
