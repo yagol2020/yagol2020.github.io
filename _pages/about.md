@@ -48,9 +48,6 @@ My research interests include Software Analysis and Testing, focusing on Autonom
   软件学报
   </span>
   **基于目标制导符号执行的智能合约安全漏洞检测**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Smart Contract
-  </span>
 
     <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 郑丽伟, 刘建宾.</span>
     <span style="font-size:15px;">软件学报, 2025. (<span style="color:blue">中文CCF-A</span>)</span>
@@ -58,25 +55,9 @@ My research interests include Software Analysis and Testing, focusing on Autonom
     📃[**Paper Link**](https://www.jos.org.cn/jos/article/abstract/7396)
 
 - <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
-  SCP
-  </span>
-  **Integrating Behavioral Semantic Analysis in Usage-Based Equivalent Tests Generation for Mobile Applications**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Android
-  </span>
-
-    <span style="font-size:15px;"> Shuqi Liu, Yu Zhou, <strong><em>Huiwen Yang</em></strong>, Tingting Han, Taolue Chen.</span>
-    <span style="font-size:15px;">Science of Computer Programming, 2025. (<span style="color:blue">国际CCF-B</span>)</span>
-
-    📃[**Paper Link**](https://doi.org/10.1016/j.scico.2024.103261)
-
-- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
   软件学报
   </span> 
   **智能合约安全漏洞检测研究进展**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Smart Contract
-  </span>
 
     <span style="font-size:15px;"> 崔展齐, <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 王林章.</span>
     <span style="font-size:15px;">软件学报, 2024. (<span style="color:blue">中文CCF-A, 导师一作</span>)</span>
@@ -87,35 +68,18 @@ My research interests include Software Analysis and Testing, focusing on Autonom
   SCP
   </span>
   **CrossFuzz: Cross-contract fuzzing for smart contract vulnerability detection**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Smart Contract
-  </span>
 
     <span style="font-size:15px;"> <strong><em>Huiwen Yang</em></strong>, Xiguo Gu, Xiang Chen, Liwei Zheng, Zhanqi Cui.</span>
     <span style="font-size:15px;">Science of Computer Programming, 2024. (<span style="color:blue">国际CCF-B</span>)</span>
 
     📃[**Paper Link**](https://doi.org/10.1016/j.scico.2023.103076)
 
-- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
-  IET Software
-  </span>
-  **CIDFuzz: Fuzz Testing for Continuous Integration**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  DevOps
-  </span>
 
-    <span style="font-size:15px;"> Jiaming Zhang, Zhanqi Cui, Xiang Chen, <strong><em>Huiwen Yang</em></strong>, Liwei Zheng, Jianbin Liu.</span>
-    <span style="font-size:15px;">IET Software, 2023. (<span style="color:blue">国际CCF-B</span>)</span>
-
-    📃[**Paper Link**](https://dl.acm.org/doi/10.1049/sfw2.12125)
 
 - <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
   IJSEKE
   </span>
   **OC-Detector: Detecting Smart Contract Vulnerabilities Based on Clustering Opcode Instructions**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Smart Contract
-  </span>
 
     <span style="font-size:15px;"> Xiguo Gu, Liwei Zheng, <strong><em>Huiwen Yang</em></strong>, Shifan Liu, Zhanqi Cui.</span>
     <span style="font-size:15px;">International Journal of Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
@@ -126,9 +90,6 @@ My research interests include Software Analysis and Testing, focusing on Autonom
   SEKE
   </span>
   **Smart Contract Vulnerability Detection Based on Clustering Opcode Instructions**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Smart Contract
-  </span>
 
     <span style="font-size:15px;"> Xiguo Gu, <strong><em>Huiwen Yang</em></strong>, Shifan Liu, Zhanqi Cui.</span>
     <span style="font-size:15px;">International Conference on Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
@@ -139,16 +100,33 @@ My research interests include Software Analysis and Testing, focusing on Autonom
   软件学报
   </span>
   **基于软件度量的Solidity智能合约缺陷预测方法**
-  <span style="float: right; background-color: #95a5a6; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold;">
-  Smart Contract
-  </span>
 
     <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 贾明华, 郑丽伟, 刘建宾.</span>
     <span style="font-size:15px;">软件学报, 2022. (<span style="color:blue">中文CCF-A</span>)</span>
 
     📃[**Paper Link**](https://www.jos.org.cn/jos/article/abstract/6550)
 
+# 📝 Publications (Other Testing)
 
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  IET Software
+  </span>
+  **CIDFuzz: Fuzz Testing for Continuous Integration**
+
+    <span style="font-size:15px;"> Jiaming Zhang, Zhanqi Cui, Xiang Chen, <strong><em>Huiwen Yang</em></strong>, Liwei Zheng, Jianbin Liu.</span>
+    <span style="font-size:15px;">IET Software, 2023. (<span style="color:blue">国际CCF-B</span>)</span>
+
+    📃[**Paper Link**](https://dl.acm.org/doi/10.1049/sfw2.12125)
+
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  SCP
+  </span>
+  **Integrating Behavioral Semantic Analysis in Usage-Based Equivalent Tests Generation for Mobile Applications**
+
+    <span style="font-size:15px;"> Shuqi Liu, Yu Zhou, <strong><em>Huiwen Yang</em></strong>, Tingting Han, Taolue Chen.</span>
+    <span style="font-size:15px;">Science of Computer Programming, 2025. (<span style="color:blue">国际CCF-B</span>)</span>
+
+    📃[**Paper Link**](https://doi.org/10.1016/j.scico.2024.103261)
 
 # 🎖 Honors and Awards
 - *2023* Outstanding Graduation Thesis. 
