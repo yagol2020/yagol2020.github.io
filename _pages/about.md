@@ -74,7 +74,15 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 
     📃[**Paper Link**](https://doi.org/10.1016/j.scico.2023.103076)
 
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  软件学报
+  </span>
+  **基于软件度量的Solidity智能合约缺陷预测方法**
 
+    <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 贾明华, 郑丽伟, 刘建宾.</span>
+    <span style="font-size:15px;">软件学报, 2022. (<span style="color:blue">中文CCF-A</span>)</span>
+
+    📃[**Paper Link**](https://www.jos.org.cn/jos/article/abstract/6550)
 
 - <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
   IJSEKE
@@ -95,16 +103,6 @@ My research interests include Software Analysis and Testing, focusing on Autonom
     <span style="font-size:15px;">International Conference on Software Engineering and Knowledge Engineering, 2023. (<span style="color:blue">国际CCF-C</span>)</span>
 
     📃[**Paper Link**](https://doi.org/10.1142/S0218194023410061)
-
-- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
-  软件学报
-  </span>
-  **基于软件度量的Solidity智能合约缺陷预测方法**
-
-    <span style="font-size:15px;"> <strong><em>杨慧文</em></strong>, 崔展齐, 陈翔, 贾明华, 郑丽伟, 刘建宾.</span>
-    <span style="font-size:15px;">软件学报, 2022. (<span style="color:blue">中文CCF-A</span>)</span>
-
-    📃[**Paper Link**](https://www.jos.org.cn/jos/article/abstract/6550)
 
 # 📝 Publications (Other Testing)
 
