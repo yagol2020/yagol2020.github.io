@@ -126,6 +126,16 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 
     📃[**Paper Link**](https://doi.org/10.1016/j.scico.2024.103261)
 
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  软件学报
+  </span>
+  **组件感知的安卓应用崩溃自动复现方法**
+
+    <span style="font-size:15px;"> 刘姝琪, 周宇, <strong><em>杨慧文</em></strong>.</span>
+    <span style="font-size:15px;">软件学报, 2025. (<span style="color:blue">中文CCF-A</span>)</span>
+
+    📃[**Paper Link**](https://www.jos.org.cn/jos/article/abstract/qa003)
+
 # 🎖 Honors and Awards
 - *2023* Outstanding Graduation Thesis. 
 - *2022* Graduate National Scholarship. 
