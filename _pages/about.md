@@ -49,7 +49,7 @@ My research interests include Software Analysis and Testing, focusing on Autonom
   **Empirical Evaluation of Simulation-based Fuzz Testing for Autonomous Driving Systems**
 
     <span style="font-size:15px;"> <strong><em>Huiwen Yang</em></strong>, Yu Zhou, Taolue Chen.</span>
-    <span style="font-size:15px;">Empirical Software Engineering, 2025. (<span style="color:blue">国际CCF-A</span>)</span>
+    <span style="font-size:15px;">Empirical Software Engineering, 2025. (<span style="color:blue">CCF-B</span>)</span>
 
 
 # 📝 Publications (Blockchain Smart Contract Testing)
