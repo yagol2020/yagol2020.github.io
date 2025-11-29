@@ -22,6 +22,7 @@ I am a Ph.D. student at Nanjing University of Aeronautics and Astronautics, supe
 My research interests include Software Analysis and Testing, focusing on Autonomous Driving Systems and Blockchain Smart Contracts. Please feel free to contact me if you're interested. 🙌
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by EMSE! <span style="float: right;">[Autonomous Driving System, Empirical Study, Fuzzing]</span>
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by TOSEM! <span style="float: right;">[Autonomous Driving System, Fuzzing]</span>
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by 软件学报! <span style="float: right;">[Smart Contract, Symbolic Execution]</span>
 
@@ -41,6 +42,15 @@ My research interests include Software Analysis and Testing, focusing on Autonom
 
 </div>
 </div>
+
+- <span style="background-color: #3498db;color: white;padding: 2px 8px;border-radius: 4px;font-weight: bold;display: inline-block;">
+  EMSE
+  </span>
+  **Empirical Evaluation of Simulation-based Fuzz Testing for Autonomous Driving Systems**
+
+    <span style="font-size:15px;"> <strong><em>Huiwen Yang</em></strong>, Yu Zhou, Taolue Chen.</span>
+    <span style="font-size:15px;">Empirical Software Engineering, 2025. (<span style="color:blue">国际CCF-A</span>)</span>
+
 
 # 📝 Publications (Blockchain Smart Contract Testing)
 
