@@ -51,6 +51,8 @@ My research interests include Software Analysis and Testing, focusing on Autonom
     <span style="font-size:15px;"> <strong><em>Huiwen Yang</em></strong>, Yu Zhou, Taolue Chen.</span>
     <span style="font-size:15px;">Empirical Software Engineering, 2025. (<span style="color:blue">CCF-B</span>)</span>
 
+    📃[**Paper Link**](https://link.springer.com/article/10.1007/s10664-025-10787-y)
+
 
 # 📝 Publications (Blockchain Smart Contract Testing)
 
